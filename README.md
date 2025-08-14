@@ -26,11 +26,11 @@ Tools Applied:
 Results:
 •	Accuracy (about 96%)
 •	 Feature weighting:
-body_mass_g                   0.000000 
-island_Torgersen              0.000000
-sex_FEMALE                    0.000000
-sex_MALE                      0.028125
-culmen_depth_mm               0.039345
-island_Dream                  0.046969
-culmen_length_mm              0.350694
+body_mass_g                   0.000000,
+island_Torgersen              0.000000,
+sex_FEMALE                    0.000000,
+sex_MALE                      0.028125,
+culmen_depth_mm               0.039345,
+island_Dream                  0.046969,
+culmen_length_mm              0.350694,
 flipper_length_mm             0.534867 (Most value)
